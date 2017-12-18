@@ -1,0 +1,12 @@
+# dependencies
+composer.lock
+node_modules
+
+# misc
+.vagrant
+.vscode
+npm-debug.log
+
+#System Files
+.DS_Store
+Thumbs.db
